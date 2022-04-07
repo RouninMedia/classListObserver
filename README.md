@@ -6,7 +6,7 @@ In this example, whenever the `classList` on an observed element updates, the `M
 If the *specific class* has been added, two things will happen:
 
  - `myFunction()` will be invoked
- - a second `class` will be added to the `classList` to confirm that the addition of the class has been observed
+ - a second `class` will be added to the `classList` to confirm that the update has been observed
 
 ```
 
